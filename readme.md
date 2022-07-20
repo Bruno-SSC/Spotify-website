@@ -12,7 +12,7 @@ Link para o vídeo do projeto: [dicas para devs](https://www.youtube.com/watch?v
 - Melhorar skills como front-end developer
 
 ---
-<h3 align="center"> Figma 📝 </h3>
+<h3 align="center"> Main page 📷 </h3>
 
 <div height="590em"><img src="./CSS/assets/main.png"></div>
 
